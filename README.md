@@ -1,16 +1,40 @@
-## Hi there 👋
+<h1 align="center">Ilian Metina</h1>
+<h3 align="center">Développeur web</h3>
 
-<!--
-**IlianMetina/IlianMetina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Je conçois et développe des applications web modernes avec un focus sur la qualité, la maintenabilité et l’expérience utilisateur.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### À propos de moi
+
+- Développeur web orienté full stack
+- J’aime construire des applications claires, robustes et scalables
+- Je travaille principalement sur des environnements web, backend et DevOps léger
+
+### Stack technique
+
+**Front-end**  
+Angular, Next.js
+
+**Back-end**  
+Java Spring Boot, NestJS, Node.js
+
+**Bases de données**  
+MySQL, PostgreSQL, MongoDB
+
+**Outils & environnement**  
+Docker, Linux, Shell, Maven, C
+
+---
+
+### Contact
+
+- GitHub: [Ilian Metina](https://github.com/IlianMetina)
+
+---
+
+<p align="center">
+  Merci de votre visite
+</p>
